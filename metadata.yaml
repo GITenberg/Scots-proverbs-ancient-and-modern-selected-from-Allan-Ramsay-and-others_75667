@@ -1,0 +1,55 @@
+_repo: Scots-proverbs-ancient-and-modern-selected-from-Allan-Ramsay-and-others_75667
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ramsay, Allan
+    aliases:
+    - Ramsey, Allen
+    - Ramsey, Allan
+    birthdate: 1684
+    deathdate: 1758
+    gutenberg_agent_id: '34694'
+    url: http://www.gutenberg.org/2009/agents/34694
+    wikipedia: https://en.wikipedia.org/wiki/Allan_Ramsay_(poet)
+description: 'Reading ease score: 97.1 (5th grade). Very easy to read.'
+gutenberg_bookshelf:
+- 'Browsing: Culture/Civilization/Society'
+- 'Browsing: Language & Communication'
+gutenberg_issued: '2025-03-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75667'
+language: en
+pgterms:marc904: https://digital.nls.uk/chapbooks-printed-in-scotland/archive/104184198
+pgterms:marc905: 20240610084551ramsay
+pgterms:marc906: '1834'
+pgterms:marc907: GB
+production_note: Mairi and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (National Library of Scotland)
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Proverbs, Scottish'
+- !lcc 'PN'
+- GITenberg
+summary: '"Scots proverbs, ancient and modern, selected from Allan Ramsay and others
+  by Ramsay" is a compilation of traditional Scottish proverbs that highlights the
+  wisdom and humor of Scottish culture through concise and clever sayings. Published
+  in the early 19th century, this collection serves not only as a reflection of societal
+  norms and attitudes of the time but also presents a linguistic glimpse into the
+  Scots language, rich with idiomatic expressions. The likely topic of the book revolves
+  around life lessons, moral guidance, and practical truths conveyed through folk
+  wisdom.  The content of the book is a diverse collection of proverbs, each packed
+  with meaning and insight into human behavior and social interactions. They cover
+  various aspects of life, from advice on friendship and love to warnings about greed
+  and foolishness. For instance, sayings like "A fool and his money are soon parted"
+  illustrate the pitfalls of impulsive behavior, while "A friend in need''s a friend
+  indeed" emphasizes the value of loyalty and support. Many of these proverbs capture
+  universal themes, making them relevant across time and culture, while also shedding
+  light on the particularities of Scottish life and humor. Overall, the book serves
+  as both a language artifact and a source of practical wisdom, enticing readers interested
+  in culture, advice, or simply the charm of Scottish folklore. (This is an automatically
+  generated summary.)'
+title: Scots proverbs, ancient and modern, selected from Allan Ramsay and others
+url: http://www.gutenberg.org/ebooks/75667
