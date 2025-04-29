@@ -1,5 +1,8 @@
 _repo: Scots-proverbs-ancient-and-modern-selected-from-Allan-Ramsay-and-others_75667
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75667-h/images/cover.jpg
 creator:
   author:
     agent_name: Ramsay, Allan
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/34694
     wikipedia: https://en.wikipedia.org/wiki/Allan_Ramsay_(poet)
 description: 'Reading ease score: 97.1 (5th grade). Very easy to read.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75667#Scots-proverbs-ancient-and-modern-selected-from-Allan-Ramsay-and-others
 gutenberg_bookshelf:
 - 'Browsing: Culture/Civilization/Society'
 - 'Browsing: Language & Communication'
